@@ -1,0 +1,5 @@
+.paket/load
+.ionide/
+**/bin/
+**/obj/
+paket-files/
